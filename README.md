@@ -89,7 +89,7 @@ pip install -r requirements.txt
 ### Run the Application
 
 ```bash
-python main.py
+streamlit run app.py
 ```
 
 ---
@@ -157,30 +157,4 @@ This project demonstrates practical implementation of:
 - Artificial Intelligence
 - Python Application Development
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository.
-2. Create a new branch.
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes.
-
-```bash
-git commit -m "Add new feature"
-```
-
-4. Push the branch.
-
-```bash
-git push origin feature-name
-```
-
-5. Create a Pull Request.
 
